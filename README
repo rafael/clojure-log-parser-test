@@ -1,0 +1,11 @@
+# noomii-logs-parser
+
+This  is a sample test porject with clojure to parse rails logs using clojure and redis.
+The ideas was to track how many request were made to a specefic route and play with that information.
+
+
+
+## License
+
+
+Distributed under the Eclipse Public License, the same as Clojure.
